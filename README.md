@@ -75,3 +75,8 @@ Conclusion
 
 This project served as an excellent hands-on learning experience in applying machine learning concepts in Java. By using tools like Apache Mahout, IntelliJ IDEA, and online platforms for learning and support, I was able to design and implement a working recommendation system that mirrors the kind used by leading tech platforms today. This task not only improved my understanding of collaborative filtering but also enhanced my ability to integrate libraries, debug complex issues, and document code effectively. The knowledge and skills gained here will undoubtedly be beneficial for future development and machine learning projects.
 
+OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/baa1b5ed-a17f-4e60-a7dc-e7eba3d986c6)
+
+
